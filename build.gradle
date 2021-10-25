@@ -30,5 +30,5 @@ dependencies {
     implementation group: 'com.google.code.gson', name: 'gson', version: '2.8.7'
     implementation group: 'com.jcraft', name: 'jsch', version: '0.1.55'
     implementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.6'
-    implementation group: 'com.squareup.okio', name: 'okio', version: '3.0.0-alpha.10'
+    implementation group: 'com.squareup.okio', name: 'okio', version: '3.0.0-alpha.11'
 }
